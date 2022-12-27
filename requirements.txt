@@ -1,0 +1,26 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
+torchaudio==0.12.1
+-f https://data.pyg.org/whl/torch-1.12.0+cu113.html
+pyg-lib==0.1.0+pt112cu113
+torch-scatter==2.1.0+pt112cu113
+torch-sparse==0.6.15+pt112cu113
+torch-geometric==2.2.0
+torch-spline-conv==1.2.1+pt112cu113
+torch-cluster==1.6.0+pt112cu113
+imutils==0.5.4
+scikit-learn==1.2.0
+tqdm==4.64.1
+pandas==1.5.2
+open3d
+opencv-python
+h5py==3.7.0
+plyfile==0.7.4
+wrapt==1.14.1
+munch==2.5.0
+docopt==0.6.2
+jsonpickle==3.0.1
+colorama==0.4.6
+py-cpuinfo==9.0.0
+gitpython==3.1.29
