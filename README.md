@@ -10,8 +10,9 @@ Point Cloud Data advancement Project
 
 
 
-Class 통합 -> 데이터 편향성 비율 
-PCD & JSON Cloud Point 매핑 에러 -> 데이터 재가공 및 재정제 
-mIoU 90% 초과로 목표치 
+- Class 통합 -> 데이터 편향성 비율 
+- PCD & JSON Cloud Point 매핑 에러 -> 데이터 재가공 및 재정제 
+- mIoU 90% 초과로 목표치 과달성
+
 2022/12/09
  ![image](https://user-images.githubusercontent.com/85321962/209616914-ab70f7b6-477a-4190-b91e-505f089d0eb6.png)
